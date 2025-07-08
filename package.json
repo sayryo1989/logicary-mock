@@ -1,0 +1,14 @@
+{
+  "name": "logicary-mock",
+  "version": "1.0.0",
+  "description": "ディベート評価AIモックアップ",
+  "scripts": {
+    "start": "parcel index.html --port 3000"
+  },
+  "dependencies": {
+    "openai": "^4.25.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
